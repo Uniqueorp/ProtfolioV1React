@@ -4,8 +4,8 @@ import "bootstrap/dist/css/bootstrap.min.css";
 const experiences = [
   {
     title: "BDE and Portfolio Manager",
-    organization: "DailyForce",
-    description: "At DailyForce i work as a Bussiness Developement Executive generating leads, dealing with clients and portfolio manager.",
+    organization: "Uniqueorp",
+    description: "At Uniqueorp i work as a Bussiness Developement Executive generating leads, dealing with clients and portfolio manager.",
     dateFrom: "Sep 2024",
     dateTo: "Present",
     link: "",

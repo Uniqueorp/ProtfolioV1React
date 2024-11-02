@@ -42,7 +42,7 @@ const Footer = () => {
         <i class="bx bxl-twitter"></i>
         </a>
     </div>
-    <span className="footer__copy">&#169;  DailyForce. All rights reserved</span>
+    <span className="footer__copy">&#169;  Uniqueorp. All rights reserved</span>
    </div>
    </footer>
   )
