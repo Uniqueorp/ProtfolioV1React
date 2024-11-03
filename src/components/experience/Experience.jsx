@@ -18,7 +18,14 @@ const experiences = [
     dateTo: "May 2023",
     link: "",
   },
-  
+  {
+    title: "Intership",
+    organization: "Onionsome Healthcare Private Limited",
+    description: "Quality control expertise and industrial instrumentation and their calibration like HPLC,TLC,HPTLC,GC, pharmaceutical analysis.",
+    dateFrom: "Feb 2024",
+    dateTo: "Mar 2024",
+    link: "https://drive.google.com/file/d/1-LI-eVXA1Tdp8cP46q5WwmcntBU7wxMl/view?usp=sharing",
+  },
 ];
 
 const Experience = () => {
